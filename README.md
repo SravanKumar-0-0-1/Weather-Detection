@@ -27,6 +27,8 @@ A simple weather forecasting application built with PyQt5 that fetches real-time
 4. Install dependencies:
    ```bash
    pip install -r requirements.txt
+
+   
    ```
 
 ## Usage
@@ -72,4 +74,6 @@ This project is licensed under the MIT License.
 ---
 
 Enjoy using the Weather App! ☀️🌧️❄️
+
+![Screenshot 2025-03-08 110454](https://github.com/user-attachments/assets/5545f5e8-fe18-4695-8e6c-6b08a3e83043)
 
