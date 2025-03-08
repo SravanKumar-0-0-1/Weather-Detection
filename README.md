@@ -76,4 +76,8 @@ This project is licensed under the MIT License.
 Enjoy using the Weather App! ☀️🌧️❄️
 
 ![Screenshot 2025-03-08 110454](https://github.com/user-attachments/assets/5545f5e8-fe18-4695-8e6c-6b08a3e83043)
+![Screenshot 2025-03-08 105634](https://github.com/user-attachments/assets/78f63e9a-db2b-49b8-963f-3c0785ee3c5d)
+![Screenshot 2025-03-08 105548](https://github.com/user-attachments/assets/4811de1a-4a35-4dc5-9a57-2d6ad72459e1)
+
+
 
